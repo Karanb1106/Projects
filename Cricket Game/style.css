@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+
+button{
+    width: 70px;
+    border-radius: 5px;
+    padding: 10px 12px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: lightgrey;
+}
+
+.choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(23, 209, 147);
+    border-radius: 50px;
+}
+
+.Choice-image{
+    height: 75px;
+}
